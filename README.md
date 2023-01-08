@@ -22,7 +22,7 @@ A college timetable generator is a computer program that helps students and facu
 
 We developed a matrix that represents the teacher, This matrix includes details for each year including the teacher's name, shift, subject, theoretical hours, practical hours, and lab number.
 
-![Teacher Matrix](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+![Teacher Matrix](https://github.com/nileshparab42/College-Timetable-Generator/blob/master/assets/teacher-matrix.png)
 
 ### Allocation of lectures
 
@@ -34,13 +34,13 @@ We developed a matrix that represents the teacher, This matrix includes details 
 
 We developed a matrix that represents the teacher, This matrix includes details for each year including the teacher's name, shift, subject, theoretical hours, practical hours, and lab number.
 
-![Allocation strategy](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+![Allocation strategy](https://github.com/nileshparab42/College-Timetable-Generator/blob/master/assets/lecture-allocation.png)
 
 ### Generating word files
 
 Finally, word documents will be generated for each schedule for each year.
 
-![Word format](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+![Word format](https://github.com/nileshparab42/College-Timetable-Generator/blob/master/assets/word-format.png)
 
 ## Getting Started
 
