@@ -91,8 +91,8 @@ chmod +x /path/to/timetable.exe
 
 ## Documents related to project
 
-- [CTG Presentation](http://link-to-presentation-1.com)
-- [CTG Report](http://link-to-presentation-1.com)
+- [CTG Presentation](https://github.com/nileshparab42/College-Timetable-Generator/blob/master/doc/CTG-Presentation.pptx)
+- [CTG Report](https://github.com/nileshparab42/College-Timetable-Generator/blob/master/doc/CTG-Repot.docx)
 
 
 ## Authors
