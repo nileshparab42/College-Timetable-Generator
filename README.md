@@ -1,4 +1,4 @@
-![Cover image](https://github.com/nileshparab42/Automation/blob/master/College%20Time%20Table%20Generator/Assets/TG-Cover.png)
+![Cover image](https://github.com/nileshparab42/College-Timetable-Generator/blob/master/assets/TG-Cover.png)
 
 # College Timetable Generator
 
@@ -31,8 +31,6 @@ We developed a matrix that represents the teacher, This matrix includes details 
 3. Teacher assignments will be made while they are still in effect.
 4. Since we cycle through each teacher in each iteration, there won't be many lectures from the same teacher.
 5. Parallel teacher allocation won't occur because we cycle through the teachers list and various years in each iteration at the same time.
-
-We developed a matrix that represents the teacher, This matrix includes details for each year including the teacher's name, shift, subject, theoretical hours, practical hours, and lab number.
 
 ![Allocation strategy](https://github.com/nileshparab42/College-Timetable-Generator/blob/master/assets/lecture-allocation.png)
 
