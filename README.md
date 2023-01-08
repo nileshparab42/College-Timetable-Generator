@@ -60,7 +60,7 @@ Finally, word documents will be generated for each schedule for each year.
 
 To download a College timetable generator project, you can use the git clone command. This command creates a copy of the repository in a new directory on your local machine.
 ```
-git clone https://github.com/nileshparab42/Amadeus.git
+git clone https://github.com/nileshparab42/College-Timetable-Generator.git
 ```
 To set up the project, you can use the pip command to install the required packages specified in the requirements.txt file.
 ```
@@ -81,13 +81,19 @@ To install an executable file of Amadeus, you can follow these steps:
 1. Download the executable file from the Amadeus repository. You can do this by clicking on the file and then clicking the "Download" button, or by using the `curl` or `wget` command to download the file directly from the command line.
 2. Make the file executable. In Linux or macOS, you can use the `chmod` command to give the file execute permissions:
 ```
-chmod +x /path/to/amadeus.exe
+chmod +x /path/to/timetable.exe
 ```
 3. Run the executable file. You can do this by double-clicking on the file in a file manager, or by running the following command in the terminal:
 ```
-./amadeus.exe
+./timetable.exe
 ```
 4. Keep in mind that some executable files may require certain dependencies or libraries to be installed in order to run correctly. You may need to install these dependencies manually or using a package manager, such as `apt` or `yum`, before you can run the executable file.
+
+## Documents related to project
+
+- [CTG Presentation](http://link-to-presentation-1.com)
+- [CTG Report](http://link-to-presentation-1.com)
+
 
 ## Authors
 
